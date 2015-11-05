@@ -47,5 +47,5 @@ describe Deck do
 end
 
 describe Hand do
-  
+  let(:three_kind) { Hand.new(5)}
 end
